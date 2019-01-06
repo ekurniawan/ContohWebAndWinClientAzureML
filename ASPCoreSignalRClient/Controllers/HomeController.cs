@@ -9,6 +9,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using Newtonsoft.Json;
 
+
 namespace ASPCoreSignalRClient.Controllers
 {
     public class HomeController : Controller
